@@ -10,4 +10,6 @@ gen
 .idea/
 pom.xml
 springboot-study.iml
-src/
+
+springboot-01-webflux/src/main/resources/
+springboot-01-webflux/src/test/
