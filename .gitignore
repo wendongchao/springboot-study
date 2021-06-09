@@ -3,13 +3,5 @@
 ### Example user template
 
 # IntelliJ project files
-.idea
 *.iml
-out
-gen
 .idea/
-pom.xml
-springboot-study.iml
-
-springboot-01-webflux/src/main/resources/
-springboot-01-webflux/src/test/
