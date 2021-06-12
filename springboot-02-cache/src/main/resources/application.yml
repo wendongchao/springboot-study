@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/cache
+    username: root
+    password: root
+  redis:
+    host: 120.27.242.94
+    password: root2014
+    port: 6379
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
+
+logging:
+  level: debug
